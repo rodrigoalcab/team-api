@@ -20,7 +20,7 @@ Here's what it takes to run and test the project:
 The project can be used as a template to start the development of a REST API project for WordPress.
 
 - This project has a Custom Post Type for Members.
-- Possui também 5 endpoints para gerenciar os membros da companhia
+- It also has 5 endpoints to manage company members
 
 ## Endpoints and how to use
 - [x] Create Team Member
