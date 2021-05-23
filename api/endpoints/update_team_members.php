@@ -18,7 +18,10 @@ function update_team_members($request){
         if ($post_found) {
 
             $response = array(
-                'ID' => $id
+                'name' => $name,
+                'email' => $email,
+                'birthday' => $birthday,
+                'gender' => $gender
             );
 
             wp_update_post($response);
